@@ -2,7 +2,7 @@ Madhav Ecommerce Sales Dashboard
 📌 Project Overview
 
 The Madhav Ecommerce Sales Dashboard is an interactive Power BI dashboard designed to track and analyze ecommerce sales performance. It provides valuable insights into sales, profit, customer behavior, payment modes, and product performance across states and months.
-
+Screen short of dashboard: ![alt text](https://github.com/Shikha9044/Madhan-Mohan-E-commerce-sale-Dashboard/blob/main/Screenshot%20(145).png)
 📝 Description
 
 This dashboard helps stakeholders monitor ecommerce sales trends, identify high-performing product categories, and track revenue by customer and state. It enables better decision-making by providing a clear visualization of sales performance KPIs such as total profit, total amount, sales quantity, and customer contribution.
@@ -24,6 +24,7 @@ Power Query – For data cleaning and transformation
 🛒 Sales by Payment Method: Pie chart showing contributions from UPI, Credit Card, Debit Card, EMI, and COD.
 
 📦 Profit by Sub-Category: Identifies top-performing categories (e.g., Chairs, Trousers).
+
 
 👥 Customer Insights: Bar chart showing contribution of top customers.
 
@@ -64,3 +65,4 @@ Open the Power BI .pbix file.
 Explore the dashboard using filters (Quarter, State).
 
 Analyze KPIs and charts to gain insights into ecommerce sales trends.
+
